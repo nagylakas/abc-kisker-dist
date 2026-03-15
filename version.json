@@ -1,7 +1,7 @@
 {
   "app_name": "abc-kisker",
-  "version": "0.3.19",
-  "published_at": "2026-03-15T22:56:01Z",
+  "version": "0.3.20",
+  "published_at": "2026-03-15T22:56:58Z",
   "manifest_url": "https://raw.githubusercontent.com/nagylakas/abc-kisker-dist/main/version.json",
   "release_notes": "Automatikusan publikalt build a forraskod tarolobol.",
   "artifacts": [
@@ -9,14 +9,14 @@
       "os": "windows",
       "arch": "amd64",
       "filename": "abc-kisker-windows-amd64.exe",
-      "sha256": "efd63b89af6e9d83baa04dcc63e9cfa300268f09a8698e61839bc60a5eca6b36",
+      "sha256": "41abf190aca2f43738ace4e828843f679c8f4edddc19568e078b4b1db787e65e",
       "download_url": "https://raw.githubusercontent.com/nagylakas/abc-kisker-dist/main/abc-kisker-windows-amd64.exe"
     },
     {
       "os": "linux",
       "arch": "amd64",
       "filename": "abc-kisker-linux-amd64",
-      "sha256": "a33a4eee83b2919f2b45ece9af7d7b97ef3e060496f507ec0fff5adc8926faa7",
+      "sha256": "4a77618409b228dc95fb75391efdfd2421db4faf7000b64be1e0e3c2d50ea368",
       "download_url": "https://raw.githubusercontent.com/nagylakas/abc-kisker-dist/main/abc-kisker-linux-amd64"
     }
   ]
