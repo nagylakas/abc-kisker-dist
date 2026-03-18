@@ -1,23 +1,23 @@
 {
-    "app_name":  "abc-kisker",
-    "version":  "0.3.44",
-    "published_at":  "2026-03-18T00:03:23Z",
-    "manifest_url":  "https://raw.githubusercontent.com/nagylakas/abc-kisker-dist/main/version.json",
-    "release_notes":  "Automatikusan publikalt build a forraskod tarolobol.",
-    "artifacts":  [
-                      {
-                          "os":  "windows",
-                          "arch":  "amd64",
-                          "filename":  "abc-kisker-windows-amd64.exe",
-                          "sha256":  "68239b9ebe68f620f4127b37c8d51773e315b1d045ab272d81fc6c175f91dfdf",
-                          "download_url":  "https://raw.githubusercontent.com/nagylakas/abc-kisker-dist/main/abc-kisker-windows-amd64.exe"
-                      },
-                      {
-                          "os":  "linux",
-                          "arch":  "amd64",
-                          "filename":  "abc-kisker-linux-amd64",
-                          "sha256":  "7569394a37d83eca523f9fff25b46f3cb5288a411d250a6b48d1dd29383c9c09",
-                          "download_url":  "https://raw.githubusercontent.com/nagylakas/abc-kisker-dist/main/abc-kisker-linux-amd64"
-                      }
-                  ]
+  "app_name": "abc-kisker",
+  "version": "0.3.44",
+  "published_at": "2026-03-18T00:19:22Z",
+  "manifest_url": "https://raw.githubusercontent.com/nagylakas/abc-kisker-dist/main/version.json",
+  "release_notes": "Automatikusan publikalt build a forraskod tarolobol.",
+  "artifacts": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "filename": "abc-kisker-windows-amd64.exe",
+      "sha256": "5056acc6e768974a8eb9e6bf98c6bea73c917ef6770f6a052858e6bee75abf9b",
+      "download_url": "https://raw.githubusercontent.com/nagylakas/abc-kisker-dist/main/abc-kisker-windows-amd64.exe"
+    },
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "filename": "abc-kisker-linux-amd64",
+      "sha256": "75654ebba25494f2248094bef1b0ed48ffb8d9b3adf3f1a1bd6e36f391eb03c7",
+      "download_url": "https://raw.githubusercontent.com/nagylakas/abc-kisker-dist/main/abc-kisker-linux-amd64"
+    }
+  ]
 }
